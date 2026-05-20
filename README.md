@@ -1,5 +1,7 @@
 # Klarheit (光澄) — Enterprise-Grade D2C Optical E-Commerce Solution
 
+*Updated by hengzaifang-spec*
+
 [![Tech Stack](https://img.shields.io/badge/Stack-React_19_%7C_Spring_Boot_3.4-blue?style=for-the-badge)](https://github.com/your-username/Klarheit)
 [![Architecture](https://img.shields.io/badge/Architecture-Fullstack_Decoupled-orange?style=for-the-badge)](#system-architecture)
 [![Java](https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk)](https://openjdk.org/)
@@ -77,7 +79,7 @@ Klarheit/
 ---
 
 ## 🚀 Getting Started
-
+ji
 ### Prerequisites
 - JDK 21+
 - Node.js 20+
